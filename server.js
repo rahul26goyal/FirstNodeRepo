@@ -1,5 +1,5 @@
 //start server from here
-//this will be deployed using herolu PaaS
+//this will be deployed using heroku PaaS
 
 var http = require("http");
 
